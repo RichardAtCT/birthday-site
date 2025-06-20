@@ -1,0 +1,42 @@
+{
+  "resort": {
+    "name": "Anantara Dubai The Palm",
+    "location": "Palm Jumeirah, Dubai",
+    "checkIn": "March 15, 2024",
+    "checkOut": "March 18, 2024",
+    "roomType": "Lagoon View Room",
+    "experiences": [
+      {
+        "id": 1,
+        "name": "Private Beach",
+        "icon": "🏖️",
+        "description": "400m pristine private beach"
+      },
+      {
+        "id": 2,
+        "name": "Anantara Spa",
+        "icon": "💆‍♀️",
+        "description": "Award-winning Thai spa treatments"
+      },
+      {
+        "id": 3,
+        "name": "Beachfront Dining",
+        "icon": "🍽️",
+        "description": "Multiple restaurants including Mekong"
+      },
+      {
+        "id": 4,
+        "name": "Lagoon Pool",
+        "icon": "🏊‍♀️",
+        "description": "Temperature-controlled lagoon pools"
+      }
+    ],
+    "journey": {
+      "start": "Abu Dhabi",
+      "end": "Palm Jumeirah",
+      "distance": "130km",
+      "duration": "1.5 hours",
+      "route": "E11 Sheikh Zayed Road"
+    }
+  }
+}

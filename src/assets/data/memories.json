@@ -1,0 +1,28 @@
+{
+  "memories": [
+    {
+      "id": 1,
+      "title": "Oliver's 3rd Birthday",
+      "image": "/images/memory1.jpg",
+      "story": "A Day full of fun and splashes"
+    },
+    {
+      "id": 2,
+      "title": "Wadi Rum",
+      "image": "/images/memory2.jpg",
+      "story": "Our Family Desert Adventure"
+    },
+    {
+      "id": 3,
+      "title": "Sri Lanka",
+      "image": "/images/memory3.jpg",
+      "story": "Your favorite turtle"
+    },
+    {
+      "id": 4,
+      "title": "Christmas",
+      "image": "/images/memory4.jpg",
+      "story": "Ho ho ho merry christmas"
+    }
+  ]
+}
